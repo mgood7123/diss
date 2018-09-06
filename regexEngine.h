@@ -4,8 +4,8 @@ syntax: from(-to),to_match,...
 to do so we will use the existing code from reg_gen and modify it
 */
 #ifndef shell__builtins
-#include "../Shell/builtins/printfmacro.h"
-#include "../Shell/builtins/regex_str.h"
+#include "./printfmacro.h"
+#include "./regex_str.h"
 #endif
 
 #include <stdbool.h>

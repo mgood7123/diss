@@ -6,8 +6,8 @@
 #include <unistd.h>
 //#include "../../shells/Built-Ins/Built-Ins.h"
 
-#include "../Shell/builtins/colors.h"
-#include "../Shell/builtins/clock.h"
+#include "./colors.h"
+#include "./clock.h"
 #include "regexEngine.h"
 
 
